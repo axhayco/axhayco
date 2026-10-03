@@ -29,7 +29,7 @@ I'm especially interested in the intersection of **software, AI, automation, and
 
 Right now, I'm learning by building — and building a lot.
 
-- 🔭 Currently building: **HostelMate** — making student housing discovery less painful
+- 🔭 Currently building: **Hozztl** — making student housing discovery less painful
 - 🧠 Exploring: **AI agents, automation & practical AI systems**
 - 🛠️ Building with: **React, TypeScript, Node.js, Python, Supabase & whatever the next idea needs**
 - 🚀 Side quest: **building products instead of just collecting tutorials**
@@ -41,7 +41,7 @@ Right now, I'm learning by building — and building a lot.
 
 | Project | What it is | Stack |
 | ------- | ------------ | ----- |
-| **[HostelMate](https://github.com/axhayco/HostelMate)** | A student housing marketplace built around discovery, comparison, bookings and the messy reality of moving to a new city. [Live](https://www.hostelmatesite.xyz/) | React, TypeScript, Tailwind, Supabase, Leaflet |
+| **[Hozztl](https://github.com/axhayco/HostelMate)** | A student housing marketplace built around discovery, comparison, bookings and the messy reality of moving to a new city. [Live](https://www.hostelmatesite.xyz/) | React, TypeScript, Tailwind, Supabase, Leaflet |
 | **[CartoFable](https://github.com/axhayco/CartoFable)** | What if your commute could become a story? A location-aware app that turns real journeys into dynamic AI-generated narratives. [Live](https://cartofable.vercel.app/) | React, TypeScript, Leaflet, Groq |
 | **[VisionX](https://github.com/axhayco/VisionX)** | An AI-assisted lab report triage system with role-based workflows and a full-stack architecture. | React, FastAPI, Python, SQLite |
 | **[Streakr](https://github.com/axhayco/Streakr)** | A little experiment in making coding practice harder to abandon — a streak system with a browser extension companion. | JavaScript, Node.js, Webhooks |
