@@ -16,7 +16,7 @@
   ·
   <a href="https://portfolio-ax.netlify.app/">Portfolio</a>
 </p>
-
+</p>
 ---
 
 ## About
