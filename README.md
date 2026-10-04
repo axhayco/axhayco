@@ -10,12 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/axhayco">LinkedIn</a>
-  ·
-  <a href="mailto:akshayrekula@gmail.com">Email</a>
-  ·
-  <a href="https://portfolio-ax.netlify.app/">Portfolio</a>
-</p>
+  <a href="https://portfolio-ax.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Akshay-00C4B4?style=flat-square" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/axhayco"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:akshayrekula@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0A1428?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 ---
 
